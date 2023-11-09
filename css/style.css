@@ -30,7 +30,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  border: 3px solid #41bf5c;
+  border: 3px solid #b9bf41;
   animation: animate 5s linear infinite;
 }
 
@@ -68,7 +68,7 @@ body {
   position: absolute;
   color: white;
   font-size: 3.5rem;
-  transition: all 0.5s;
+  transition: all 2.0s;
   transition-delay: 0.3s;
 }
 

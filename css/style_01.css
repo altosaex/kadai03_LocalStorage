@@ -3,12 +3,7 @@
 }
 header {
 	background: url(./12.jpg) center / cover;
-	height: 80px;
-}
-
-h1 {
-	color: rgb(255, 255, 255);
-	padding-top: 25px;
+	height: 100px;
 }
 
 body {
@@ -17,12 +12,13 @@ body {
 }
 
 h1 {
-    font-size: 30px;
-    text-align: center;
-    font-weight: bold;
-    margin: 30px 0;
-    padding-bottom: 30px;
-    border-bottom: 1px solid #ccc;
+	color: rgb(255, 255, 255);
+	padding-top: 40px;
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 300px;
+  border-bottom: 1px solid #ccc;
 }
 
 .input-area {
